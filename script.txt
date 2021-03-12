@@ -1,5 +1,5 @@
 type some text in this file to demonstrate version tracking 
 
 then also type some stuff on anther line 
-
+and another new line
 and a third one
